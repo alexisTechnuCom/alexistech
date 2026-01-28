@@ -34,11 +34,13 @@ const alexis = {
 
 <table>
     <tr>
-        <td>
+        <td valign="top">
             <img height="180" src="https://github-readme-stats.vercel.app/api?username=alexisTechnuCom&show_icons=true&theme=radical"/>
         </td>
-        <td>
+        <td valign="top">
             <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisTechnuCom&layout=compact&theme=radical"/>
+            <br>
+            <img src="https://komarev.com/ghpvc/?username=alexisTechnuCom&label=Profile%20Views&color=blue&style=for-the-badge" />
         </td>
     </tr>
 </table>
