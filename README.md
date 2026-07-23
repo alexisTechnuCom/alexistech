@@ -72,8 +72,6 @@ const alexis = {
 - Faire évoluer les modules personnalisés entre différentes versions d’Odoo.
 - Développer des interfaces modernes avec OWL, XML/QWeb et SCSS.
 - Analyser et améliorer la qualité, la performance et la maintenabilité du code.
-- Créer et améliorer les tests automatisés.
-- Participer aux revues de code et au partage des connaissances dans l’équipe.
 - Utiliser l’intelligence artificielle pour soutenir l’analyse, les tests et l’amélioration du code.
 
 ## 🌱 Amélioration continue
